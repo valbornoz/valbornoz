@@ -16,26 +16,29 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valbornoz&label=Profile%20views&color=0e75b6&style=flat" alt="valbornoz" /> </p>
 <h1 align="center">😏 Yo soy Victor Albornoz</h1>
-<h3 align="center">Programador en multiples tecnologias, especializado en Python y webscraping. </h3>
+<!--<h3 align="center">Programador en multiples tecnologias, especializado en Python y webscraping. </h3>-->
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FD80F&width=435&lines=Programador+en+multiples+tecnologias;Especialista+en+Python+y+webscraping;.+.+." alt="Typing SVG" /></a></div>
 
 <h4 align="center">
 Cuando no sé como resolver un problema, tengo la habilidad de conseguir a la persona adecuada que lo sabe.</h4>
 <hr/>
 <br/>
 
-
+## Sobre mi
 - 🌱 I’m currently learning **Ciencia de Datos y front end**
 
 - 💬 Ask me about **SQL y Sistemas Operativos**
 
 - 📫 How to reach me **albornoz1995@gmail.com**
 
-<h3 align="left">Puedes Contactarme:</h3>
+
+### Contactame
 <p align="left">
 <a href="https://instagram.com/dreadsvictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreadsvictor" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/victoralbornoz867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="victoralbornoz867" height="42" width="40" /></a>
 <a href="https://www.hackerrank.com/albornoz1995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="albornoz1995" height="30" width="40" /></a>
 </p>
+<br/>
 
 <h2 align="left">Lenguajes y Herramientas:</h2>
 <p align="left">
