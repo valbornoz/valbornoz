@@ -7,10 +7,10 @@
 <h1 align="center">😏 Yo soy Victor Albornoz</h1>
 <br/>
 <!--<h3 align="center">Programador en multiples tecnologias, especializado en Python y webscraping. </h3>-->
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FD80F&width=435&lines=Programador+en+multiples+tecnologias;Especialista+en+Python+y+webscraping;.+.+." alt="Typing SVG" /></a></div>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FD80F&width=435&lines=Programador+en+múltiples+tecnologías;Especialista+en+Python+y+webscraping;.+.+." alt="Typing SVG" /></a></div>
 
 
->Cuando no sé como resolver un problema, tengo la habilidad de conseguir a la persona adecuada que lo sabe.
+>Cuando no sé cómo resolver un problema, tengo la habilidad de conseguir a la persona adecuada que lo sabe.
 <hr/>
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Mi%20Stack-FARM-blue?labelColor=595959"> 
@@ -30,7 +30,7 @@
 
 <br/>
 
-## Sobre mi
+## Sobre mí
 
 - 🌱 Aprendiendo **Frontend**
 
@@ -38,14 +38,14 @@
 
 - 💬 Puedes preguntarme sobre **SQL y Sistemas Operativos**
 
-- 📫 Escribeme a **albornoz1995@gmail.com**
+- 📫 Escríbeme a **albornoz1995@gmail.com**
 
-- 😄 Tambien amo **Bailar y Dibujar**
+- 😄 También amo **Bailar y Dibujar**
 
 <br/>
 
 
-### Contactame
+### Contáctame
 <p align="left">
 <a href="https://instagram.com/dreadsvictor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dreadsvictor" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/victoralbornoz867" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="victoralbornoz867" height="42" width="40" /></a>
@@ -53,7 +53,7 @@
 </p>
 <br/>
 
-<h2 align="left">Lenguajes y Herramientas:</h2>
+<h2 align="left">Lenguajes y Herramientas</h2>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
