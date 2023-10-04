@@ -1,9 +1,11 @@
 <!-- ### Hi there 👋 -->
 
-<!-- Welcome to my 
+<!-- Welcome to the raw code of my README.MD
+        😊 ¡take what you like!
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valbornoz&label=Profile%20views&color=0e75b6&style=flat" alt="valbornoz" /> </p>
 <h1 align="center">😏 Yo soy Victor Albornoz</h1>
+<br/>
 <!--<h3 align="center">Programador en multiples tecnologias, especializado en Python y webscraping. </h3>-->
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FD80F&width=435&lines=Programador+en+multiples+tecnologias;Especialista+en+Python+y+webscraping;.+.+." alt="Typing SVG" /></a></div>
 
