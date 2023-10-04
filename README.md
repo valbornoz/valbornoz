@@ -1,35 +1,46 @@
 <!-- ### Hi there 👋 -->
 
-<!--
-**valbornoz/valbornoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... trabajando en
-- 🌱 I’m currently learning ...   busco colaborar en
-- 👯 I’m looking to collaborate on ... busco ayuda con
-- 🤔 I’m looking for help with ... aprendiendo
-- 💬 Ask me about ... se me puede preguntar sobre
-- 📫 How to reach me: ... como contactarme email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Welcome to my 
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valbornoz&label=Profile%20views&color=0e75b6&style=flat" alt="valbornoz" /> </p>
 <h1 align="center">😏 Yo soy Victor Albornoz</h1>
 <!--<h3 align="center">Programador en multiples tecnologias, especializado en Python y webscraping. </h3>-->
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1FD80F&width=435&lines=Programador+en+multiples+tecnologias;Especialista+en+Python+y+webscraping;.+.+." alt="Typing SVG" /></a></div>
 
-<h4 align="center">
-Cuando no sé como resolver un problema, tengo la habilidad de conseguir a la persona adecuada que lo sabe.</h4>
+
+>Cuando no sé como resolver un problema, tengo la habilidad de conseguir a la persona adecuada que lo sabe.
 <hr/>
+<p>
+<img alt="Static Badge" src="https://img.shields.io/badge/Mi%20Stack-FARM-blue?labelColor=595959"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Fast--API-blue?logo=fastapi&labelColor=595959">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-blue?logo=react&labelColor=595959">
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-blue?logo=mongodb&labelColor=595959">
+<p/>
+
+
+<!--Mi stack en blanco-->
+<!--
+<img alt="Static Badge" src="https://img.shields.io/badge/Mi%20Stack-FARM-blue?labelColor=595959&logoColor=white"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Fast--API-blue?logo=fastapi&labelColor=595959&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-blue?logo=react&labelColor=595959&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-blue?logo=mongodb&labelColor=595959&logoColor=white">
+-->
+
 <br/>
 
 ## Sobre mi
-- 🌱 I’m currently learning **Ciencia de Datos y front end**
 
-- 💬 Ask me about **SQL y Sistemas Operativos**
+- 🌱 Aprendiendo **Frontend**
 
-- 📫 How to reach me **albornoz1995@gmail.com**
+- 🧠 Curioso por **IA y Data Science**
+
+- 💬 Puedes preguntarme sobre **SQL y Sistemas Operativos**
+
+- 📫 Escribeme a **albornoz1995@gmail.com**
+
+- 😄 Tambien amo **Bailar y Dibujar**
+
+<br/>
 
 
 ### Contactame
@@ -122,22 +133,7 @@ Cuando no sé como resolver un problema, tengo la habilidad de conseguir a la pe
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
     </a>
-</p>
-
-<!--
-<h4 align="left">Otras:</h4>
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
     </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-    </a> 
 </p>
--->
