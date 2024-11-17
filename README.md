@@ -31,11 +31,8 @@
 <br/>
 
 ## Sobre mí
-<<<<<<< HEAD
 
 - 🧠 Fascinado por **IA y Data Science**
-=======
->>>>>>> 713c8fe55f9ae6ffeb352a5dfc0550821915935b
 
 - 🌱 Aprendiendo **Frontend**
 
