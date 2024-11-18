@@ -34,7 +34,7 @@
 
 - 🧠 Fascinado por **IA y Data Science**
 
-- 🌱 Aprendiendo **Frontend**
+- 🌱 Aprendiendo **Ingles**
 
 - 💬 Puedes preguntarme sobre **SQL y Sistemas Operativos**
 
